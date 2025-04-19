@@ -26,16 +26,28 @@ Enable business and HR leaders to:
 
 ## 📂 Project Structure
 ```
-peoplepulse/ │ 
-├── data/ # Datasets │├── raw/ # Original IBM HR dataset 
-│ └── processed/ # Cleaned dataset used in dashboard │ 
-├── notebooks/ # EDA and data transformation notebooks │ 
-├── scripts/ # Python scripts for data cleaning and processing │ 
-├── dashboard/ # Power BI dashboard file │ └── PeoplePulse_HR_Executive.pbix │ 
-├── assets/ # Screenshots and visuals for README │ 
-├── kpi_overview.png │ 
-├── trends.png │ └── line_and_roles.png │ 
-├── README.md # Project documentation └── .gitignore # File exclusions for Git
+## 📁 Project Structure
+
+peoplepulse/
+├── data/                      # Datasets used in the project
+│   ├── raw/                   # Original unprocessed data
+│   ├── processed/             # Cleaned and feature-engineered data
+│   └── WA_Fn-UseC_-HR-Employee-Attrition.csv          # CSV file
+│
+├── notebooks/                 # Jupyter notebooks for EDA and transformation
+│   ├── EDA.ipynb/                   # Python NB with EDA steps
+│   └── Feature_Engineering.ipynb/             # Python NB with feature engineering steps    
+│
+├── dashboard/                 # Power BI dashboard file
+│   └── PeoplePulse_HR_Executive.pbix
+│
+├── assets/                    # Images for README and documentation
+│   ├── kpi_overview.png
+│   ├── trends.png
+│   └── line_and_roles.png
+│
+└── README.md                  # Project documentation
+
 
 ```
 ---
