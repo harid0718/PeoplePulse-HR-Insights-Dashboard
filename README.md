@@ -4,6 +4,16 @@ A modern, executive-ready HR analytics dashboard built in Power BI to visualize 
 
 ---
 
+## ⚙️ Tech Stack & Tools
+
+[![Power BI](https://img.shields.io/badge/Power%20BI-visualization-F2C811?logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+[![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)](https://www.python.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-data--processing-purple?logo=pandas)](https://pandas.pydata.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-EDA-orange?logo=jupyter)](https://jupyter.org/)
+[![GitHub](https://img.shields.io/badge/GitHub-hosted-181717?logo=github)](https://github.com/)
+
+
+
 ## 🧠 Objective
 
 Enable business and HR leaders to:
