@@ -1,10 +1,10 @@
-# 📊 PeoplePulse – HR Insights Dashboard
+# PeoplePulse - HR Insights Dashboard
 
 A modern, executive-ready HR analytics dashboard built in Power BI to visualize employee attrition, satisfaction, and organizational trends. This project explores key workforce metrics using interactive KPIs, department-level comparisons, and engagement indicators.
 
 ---
 
-## ⚙️ Tech Stack & Tools
+## Tech Stack & Tools
 
 [![Power BI](https://img.shields.io/badge/Power%20BI-visualization-F2C811?logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
 [![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)](https://www.python.org/)
@@ -14,7 +14,7 @@ A modern, executive-ready HR analytics dashboard built in Power BI to visualize 
 
 
 
-## 🧠 Objective
+## Objective
 
 Enable business and HR leaders to:
 - Understand department-wise attrition trends
@@ -24,19 +24,19 @@ Enable business and HR leaders to:
 
 ---
 
-## 📈 Key Features
+## Key Features
 
-- 📌 **Interactive KPI Cards** – Total Employees, Attrition Rate, Avg Tenure, Satisfaction Score
-- 🧩 **Visual Breakdown** – Attrition by Department, Overtime, Age, and Job Role
-- 🎛️ **Filters** – Department, Gender, Tenure Bucket, Education Field, Marital Status
-- 📅 **Dynamic Reporting Date** – Based on system time
-- 🎨 **Executive Layout** – Compact, readable, designed for business storytelling
+- **Interactive KPI Cards** – Total Employees, Attrition Rate, Avg Tenure, Satisfaction Score
+- **Visual Breakdown** – Attrition by Department, Overtime, Age, and Job Role
+- **Filters** – Department, Gender, Tenure Bucket, Education Field, Marital Status
+- **Dynamic Reporting Date** – Based on system time
+- **Executive Layout** – Compact, readable, designed for business storytelling
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 ```
-## 📁 Project Structure
+## Project Structure
 
 peoplepulse/
 ├── data/                      # Datasets used in the project
@@ -61,7 +61,7 @@ peoplepulse/
 
 ```
 ---
-## 📊 Visual Highlights
+## Visual Highlights
 
 ### KPI & Overview Section
 ![KPI Overview](assets/kpi_overview.png)
@@ -74,7 +74,7 @@ peoplepulse/
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 
 - **Power BI** – Interactive dashboard design & KPI metrics
 - **Python (Pandas, Seaborn)** – Data wrangling, EDA
@@ -83,7 +83,7 @@ peoplepulse/
 
 ---
 
-## 💡 Key Insights
+## Key Insights
 
 - Departments like Sales and R&D experience the most attrition
 - Overtime employees are 2x more likely to leave
@@ -92,16 +92,16 @@ peoplepulse/
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Hari Dave**  
 MS Data Science | University of Arizona  
-📍 [LinkedIn](https://www.linkedin.com/in/your-profile/)  
-📦 [GitHub](https://github.com/your-username)
+[LinkedIn](https://www.linkedin.com/in/your-profile/)  
+[GitHub](https://github.com/your-username)
 
 ---
 
-## 📬 Contact
+## Contact
 
 If you’d like to collaborate, give feedback, or discuss HR analytics, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/your-profile/).
 
